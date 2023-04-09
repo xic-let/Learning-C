@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main ()
+{
+    printf (" \x4F\x6C\x61 \x4D\x75\x6E\x64\x6F\n");
+    printf ("\x43\x69\x61\x6F\x0A");
+}
